@@ -1,0 +1,2 @@
+rootProject.name='DOGO'
+include ':app', ':library-permission-util', ':library-bottom-sheet',':FlycoTabLayout_Lib'

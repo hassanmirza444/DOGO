@@ -1,0 +1,349 @@
+{
+  "layers": [
+    {
+      "id": 1,
+      "name": "Airedale Terrier ",
+      "physical": "The Airedale Terrier is the largest dog in the terrier group. 2222 They weigh between 40 to 70 pounds. 2222 They have muscular bodies, long heads, and a straight tail. 2222 Their fur is thick and wiry with a double-coat. They should get a weekly brushing and regular stripping of dead fur. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "name": "Akita ",
+      "physical": "Akitas are the largest Japanese breed and are part of the Spitz group. 2222 They weigh between 75 to 120 pounds. 2222 They have webbed feet for swimming and powerful bodies.2222 They blow their coat twice a year and need a daily brushing during these shedding periods and weekly brushing at other times.",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "name": "American Cocker Spaniel ",
+      "physical": "American Cocker Spaniels weight between 18 and 28 pounds. 2222 They have medium-length hair that needs a daily brushing as well as some professional grooming sessions throughout the year. 2222 They have a sloped body, round heads and long ears. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 4,
+      "name": "American Staffordshire Terrier ",
+      "physical": "These are powerfully built dogs with stocky, muscular, and athletic bodies. 2222 They range from 40 to 60 pounds. 2222 They have a short coat that requires only a weekly brushing.",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 5,
+      "name": "Australian Cattle Dog ",
+      "physical": "Australian Cattle Dogs have stocky, muscular bodies with a wide head and pricked ears. 2222 They range from 32 to 35 pounds. 2222 They have a dense undercoat and short overcoat that is very weather resistant. They don’t need much grooming other than a bath when they shed twice a year. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 6,
+      "name": "Australian Shepherd ",
+      "physical": "These are medium-sized dogs that weigh 35 to 65 pounds. 2222 Their body shape is longer than it is taller and they are a well-muscled dog. 2222 They have a medium-length double-coat that protects them in all types of weather. 2222 They require regular brushing and occasional trimming. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 7,
+      "name": "Basenji ",
+      "physical": " Basenjis weigh on average 24 pounds. 2222 They have curved tails and a lean, muscular body, and distinctive erect ears. 2222 They have a short coat and require minimal grooming. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 8,
+      "name": "Beagle ",
+      "physical": "Beagles have muscular, stout frames with a long body and distinctive long ears. 2222 They range in size from about 15 to 35 pounds. 2222 They are a short-haired breed that needs brushing a few times a week and an occasional bath. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 9,
+      "name": "Bernese Mountain Dog ",
+      "physical": " This is a large breed, weighing between 80 to 110 pounds. 2222 They have a long double-coat that tolerates harsh weather well. 2222 Their coats are black, with a white blaze on their chest, head and toes and some symmetrical rust markings. 2222 They need several brushings a week and can shed heavily. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 10,
+      "name": "Bichon Frise ",
+      "physical": "Bichons weigh between 7 and 12 pounds. 2222 They have a fluffy white coat, a blunt muzzle, and a high tail. 2222 They need daily brushings, special shampoo baths every two weeks, and a clipping every four to six weeks. 2222 Their eye area also needs regular cleaning to prevent tear staining. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 11,
+      "name": "Bloodhound ",
+      "physical": "Bloodhounds are large dogs that weigh about 90 to 110 pounds. 2222They have a long face with many skin folds and droopy ears. Their body is long with the tail up and flagging over their backs. 2222 This breed has extensive grooming needs which include weekly brushing and daily cleaning of their skin folds and flews. They also need weekly ear cleanings. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 12,
+      "name": "Border Collie ",
+      "physical": " Border Collies are medium-sized dogs that weigh between 30 and 55 pounds. 2222 They are agile dogs with well-muscled, lean bodies designed for herding sheep. 2222 They have a double coat that can be rough or smooth. Though the black and white coat color is most recognized, they come in most coat colors. 2222 They require grooming of their undercoat every one to two months. They shed twice a year in the fall and spring. Frequent brushing is also necessary. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 13,
+      "name": "Border Terrier ",
+      "physical": "This small breed weighs 11 to 15 pounds. 2222 Their face is described as looking like an otter. They have longer legs than other small members of the terrier group. 2222 Their coat is wiry and short and their undercoat needs stripping twice a year or more. They also need daily brushing. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 14,
+      "name": "Boston Terrier ",
+      "physical": "The breed’s average weight is 15 to 18 pounds. 2222 They have muscular bodies with a brachycephalic (flat) face. 2222 They have a short, smooth coat and should be bathed at least every six weeks. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 15,
+      "name": "Boxer ",
+      "physical": " Boxers weigh approximately 60 pounds. 2222 They have a muscular and athletic body and a brachycephalic face. 2222 They are born with floppy ears and long tails but these are usually trimmed and docked. 2222 They have a smooth, short coat and need only regular brushing. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 16,
+      "name": "Brittany Spaniel ",
+      "physical": "This is a medium-sized dog that weighs 30 to 40 pounds. 2222 They are either tailless or have short docked tails. 2222 The dense coat is flat or wavy with feathering on their legs and rear end. Grooming is not extensive with a brushing 1 to 2 times a week and bathing as needed. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 17,
+      "name": "Bullmastiff ",
+      "physical": "The Bullmastiff is one of the largest dog breeds. They weigh between 100 and 130 pounds. 2222 They have a very muscular frame and folds of skin near the head and neck. 2222 They have a short coat that only needs regular brushing and they do drool a lot so you’ll need to always have a towel on hand. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 18,
+      "name": "Catahoula Leopard Dog ",
+      "physical": "Catahoulas are medium-sized dogs that weigh 50 to 90 pounds. 2222 They have a stocky build, webbed feet and broad, flat skulls. They have striking eyes which can be light blue to golden brown. Heterochromia is very common. 22222 Their coat is short and thick and they are not heavy shedders and have minimal grooming needs. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 19,
+      "name": "Cavalier Kings Charles Spaniel ",
+      "physical": "Cavaliers weigh between 12 and 18 pounds. 2222 They have long ears and a sturdy body compared to other toy dogs. 2222 They have long hair which is straight or wavy. Their feet, tail, and legs are feathered. They require a lot of grooming including daily brushing, weekly ear care, and monthly baths.",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 20,
+      "name": "Chihuahua ",
+      "physical": "Chihuahuas weigh up to 6 pounds. 2222 They have compact bodies with an “apple head” that is round with large, erect ears and short muzzles. 2222 They have either a short smooth coat or a long coat. The smooth coat dog needs only a regular bathing. The long coat needs a regular combing and bath. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 21,
+      "name": "Chinese Crested ",
+      "physical": " The Chinese crested weighs about 12 pounds or less. 2222  They have a slender, delicate body with a long snout and inquisitive face. They have long feet that are called “hare-like.” 2222  They come in a Hairless and Powderpuff variety. They require regular bathing, more often for the Hairless variety. Powderpuffs needs regular brushing. 2222  Their skin can change color during the year, getting darker as it gets warmer. Because of their sensitive skin, they are prone to many skin conditions and sunburn. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 22,
+      "name": "Chinese Shar-Pei ",
+      "physical": "The Shar-Pei is a unique looking dog with distinctive wrinkles all over their bodies. 2222 They weigh between 45 and 60 pounds. 2222 They have a short, rough coat and regular brushing is necessary. They also need biweekly baths to clean out the areas between the wrinkles. 2222 Because of their wrinkled body, they are prone to skin conditions. 2222 Their tongue and the insides of their mouths is a bluish-black color. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 23,
+      "name": "Chow Chow ",
+      "physical": "The Chow Chow is a heavy-boned dog with a thick, rough coat. The dog is compared to a lion due to the fur framing its head. 2222 The average weight is 45 to 75 pounds. 2222  The breed has a blue or black tongue. 2222  They shed a great deal and daily brushing is required. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 24,
+      "name": "Dachshund ",
+      "physical": "The breed comes in three different sizes: standard (about 24 pounds), miniature (about 10 pounds), and toy (up to 8 pounds). 2222  They have long bodies with short legs. 2222  Dachshund coats are either long, short or wired. They have minimal grooming needs and are easy to care for.",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 25,
+      "name": "Dalmatian ",
+      "physical": "Dalmatians are known for their distinctive white coat with black or liver spotting. 2222 They weigh from 50 to 70 pounds. 2222 They are easy to care for and grooming consists of just a regular brushing. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 26,
+      "name": "English Bulldog",
+      "physical": " English bulldogs weigh approximately 50 pounds. 2222  They have broad chests and short, heavy-boned legs with short tails. They have wrinkling on their head, neck, and shoulders. 2222  Their snout is brachycephalic and their jaws are undershot. 2222  Their coat is short and they only need a brushing two to three times a week. They are prone to skin problems because of their wrinkled skin and the folds should be cleaned weekly. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 27,
+      "name": "French Bulldog ",
+      "physical": "Frenchies weigh about 28 pounds or less. 2222 They look similar to an English bulldog but they have a broader muzzle and erect, batlike ears. 2222 They have a short coat that requires minimal brushing and a monthly bath. Their face should be cleaned daily though as the skin folds can lead to skin problems. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 28,
+      "name": "German Shepherd Dog ",
+      "physical": "The breed runs about 50 to 90 pounds. 2222 They are large, athletic dogs bred to work tirelessly with a body frame to match. 2222 They have short, thick coats and some may have longer coats than others. They do shed a lot and need a daily brushing. Bathing at least once or twice a month is recommended as well. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 29,
+      "name": "German Shorthaired Pointer ",
+      "physical": " This pointer breed weighs between 55 to 70 lbs. 2222 They are athletic dogs with a sleek body. 2222 Their coats are short and hard and need only a weekly brushing and a twice-monthly bath. Their ears should also be cleaned once a week as they are susceptible to ear infections. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 30,
+      "name": "Golden Retriever ",
+      "physical": "Golden Retrievers weigh 55 to 75 pounds. 2222 There are two types of Goldens. Field-bred dogs are smaller with a redder coat and show-bred dogs are bigger, with a golden, longer coat and feathering. 2222 They require a few brushings a week and baths twice a month though you may need to do more with a show-bred dog. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 31,
+      "name": "Great Dane ",
+      "physical": "The breed can weigh up to 200 pounds, with males larger than females. 2222 Though they are often seen with pricked ears, they are naturally long and hanging. 2222 They have powerful, muscular bodies with long legs and a dignified face. 2222 They have a short, smooth coat that needs daily brushing and the occasional bath. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 32,
+      "name": "Greyhound ",
+      "physical": "Greyhounds weigh 65 to 80 pounds. 2222 They are slim, tall dogs with a narrow, streamlined body designed for racing. 2222 Their coats are short and are easy to care for. They should be bathed only as needed. Because of their lean bodies and short coats, they are sensitive to heat and cold. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 33,
+      "name": "Irish Setter ",
+      "physical": "The Irish Setter weighs between 60 and 70 pounds. 2222 They have a long body, legs, and neck with hanging ears and a medium-sized snout. 2222 They are known for their stunning medium-length red coat which can be straight or wavy. 2222 Despite the striking appearance of their coat, they only need a weekly brushing and a monthly bath. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 34,
+      "name": "Labrador Retriever ",
+      "physical": "Labrador Retrievers weigh about 70 pounds. 2222 They have a large head, athletic body, and an “otter-like” tail. 2222 They have a short coat that needs a bath once a month and regular brushing to prevent shedding. 2222 Their ears should be cleaned once a week. 2222 They only come in three colors: black, yellow and chocolate. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 35,
+      "name": "Maltese ",
+      "physical": "This small dog weighs 6 to 9 pounds. 2222  They have a long, flowing coat which is usually white but can come in ivory. 2222  They need a lot of grooming with daily brushings. They need to be bathed weekly to keep up their coat color and prevent tear stains. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 36,
+      "name": "Papillon ",
+      "physical": "Papillons weigh between 6 and 10 pounds. 2222  They are fine-boned dogs with a plumed tail and large, round ears that remind one of a butterfly’s wings (their name means butterfly in French). 2222  Their coat is silky and easy to care for. They should be based every six weeks and coat combed regularly. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 37,
+      "name": "Pembroke Welsh Corgi ",
+      "physical": "Corgis weigh 25 to 30 pounds. 2222  These dogs have a unique look with a low, stocky build, short legs, and erect ears. 2222  They have thick fur that sheds twice yearly. They don’t need much grooming other than a brushing once a week. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 38,
+      "name": "Pomeranian ",
+      "physical": "Poms weigh about 3 to 7 pounds. 2222 They have a teddy bear-like appearance with upright ears and a fluffy body, expressive eyes and engaging “smile.” 2222 Their double-coat and feathered tail require a lot of grooming to prevent mats and tear stains. They should be brushed several times a week and a bath about every three weeks. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 39,
+      "name": "Portuguese Water Dog ",
+      "physical": "This breed weighs 42 to 60 pounds for males and 25 to 50 pounds for females. 2222 The dog has an athletic build, thick tail and webbed feet. 2222 They have a thick coat that can be wavy or curly and is water-resistant. 2222 They need regular brushing and bathing and trips to the groomer if you want them professionally trimmed. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 40,
+      "name": "Pug ",
+      "physical": "Pugs weigh between 14 and 18 pounds. 2222  They have a round, brachycephalic face with short, hanging ears. 2222  Their coat is usually golden or fawn with some black on the face and ears. Some pugs may be black, apricot or silver. 2222 Their coat is easily cared for with a monthly bath, weekly ear cleaning, and a daily face cleaning. They should be brushed two to three times a week.",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 41,
+      "name": "Rottweiler ",
+      "physical": " Rottweilers weigh from 75 to 135 pounds. 2222 They have big heads and powerfully built bodies. 2222 Their double coat is black and tan and they are easy to care for. They need a weekly brushing and more when they shed in the spring and fall. 2222 Rottweilers can be territorial and need early socialization and training. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 42,
+      "name": "Saint Bernard ",
+      "physical": "The St. Bernard is a large, heavyset dog that weighs from 100 to 200 pounds. 2222  They have droopy ears, long flews, and a medium-sized snout. 2222 They can have a short or long coat both of which have thick hair. Their coats are resistant to cold weather, snow, and ice. 2222 They have minimal grooming needs. They should be brushed regularly and their eye area should be cleaned daily. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 43,
+      "name": "Shih Tzu",
+      "physical": "The Shih Tzu weighs between 9 and 16 pounds. 2222  They have a heavier build than other toy dogs. Their bodies are compact with a tail set high and over their back and round heads with short muzzles. 2222  They have a lovely long double coat that is often worn in a topknot on their heads. 2222  They do require a moderate to high amount of grooming depending on how you want their coats to look and whether you will use a professional groomer. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 44,
+      "name": "Standard Poodle ",
+      "physical": "The Standard Poodle weighs from 45 to 70 pounds. 2222  They have an elegant frame with long legs, a long slender snout, and long ears. 2222  Their coat is tightly curled and coarse and is very resistant to water. They require a lot of grooming which includes brushing several times a week, a weekly bath and a trim at least twice a month.2222   They are known for elaborate trims which look ornamental but actually served to keep the dog warm during hunting and retrieving in cold water. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 45,
+      "name": "Standard Rough Collie ",
+      "physical": " Collies weigh from 50 to 75 pounds. 2222   They have long, flat heads with upright ears and intelligent eyes. 2222  Their bodies are long and lean with a long tail. 2222  Their coats are long and require brushing several times a week. They shed in the spring and fall and require more frequent brushings during this time. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 46,
+      "name": "Weimaraner ",
+      "physical": " Weimaraners weigh from 55 to 90 pounds. 2222  They have a lean, athletic body with long, drooping ears. A medium-length muzzle and expressive eyes. Their tail is usually docked. 2222  They are known for their beautiful silvery coat and are nicknamed the “Grey Ghost.” 2222  Their coat is smooth and short and easy to groom. They need a brushing once a week and ears should be cleaned weekly. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 47,
+      "name": "West Highland Terrier",
+      "physical": "Westies weigh from 15 to 20 pounds. 2222  Like most terriers, they have a sturdy build designed for digging out small rodents. 2222  They are all white with double coats that are hard to the touch. 2222  They don’t need a lot of grooming other than a weekly brushing and they do not shed often. 2222  They are considered a hypoallergenic breed. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 48,
+      "name": "Wheaten Terrier ",
+      "physical": "Wheaten Terriers weigh from 30 to 40 pounds. 2222 They are medium-sized dogs with small ears. A rectangular head and almond-shaped eyes. 2222 They have a single coat that is soft and wavy that covers their eyes. 2222 They get their name from the pale wheat color of their coat. ",
+      "personality": "",
+      "img": ""
+    },
+    {
+      "id": 49,
+      "name": "Yorkshire Terrier ",
+      "physical": " Yorkies weigh only three to five pounds. 2222  They have pricked ears, a fine-boned body and a medium-length muzzle with a scissor bite. 2222  Their coat is long and silky with a dark steel blue and gold color pairing. 2222  They have high grooming needs unless you decide to trim their coat. They need daily brushings, weekly baths, and an occasional trimming. The hair on their heads is usually kept in a top knot. ",
+      "personality": "",
+      "img": ""
+    }
+  ]
+}
+ 
+ 
